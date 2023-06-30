@@ -1,6 +1,6 @@
 Uma fake API para uma aplicação de todos
 
-Base URL: https://scrap-fake-api.onrender.com
+Base URL: https://todo-fake-api.onrender.com
 
 ## ROTAS
 
