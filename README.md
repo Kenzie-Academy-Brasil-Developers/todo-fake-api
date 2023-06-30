@@ -10,7 +10,7 @@ Base URL: https://todo-fake-api.onrender.com
 
 ```json
 {
-   "Authorization": "Bearer ${token}"
+   "Authorization": "Bearer token"
 }
 ```
 
@@ -33,7 +33,7 @@ userId (para buscar notas somentes de um determinado usuário)
 
 ```json
 {
-   "Authorization": "Bearer ${token}"
+   "Authorization": "Bearer token"
 }
 ```
 
@@ -62,7 +62,7 @@ Padrão de resposta
 
 ```json
 {
-   "Authorization": "Bearer ${token}"
+   "Authorization": "Bearer token"
 }
 ```
 
@@ -70,7 +70,7 @@ Padrão de resposta
 
 ```json
 {
-   "Authorization": "Bearer ${token}"
+   "Authorization": "Bearer token"
 }
 ```
 
